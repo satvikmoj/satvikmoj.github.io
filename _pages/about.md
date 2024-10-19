@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. The University of Texas at Austin, Center for Learning and Memory
+subtitle: <a href='#'></a>. The University of Texas at Austin, Center for Learning and Memory
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
